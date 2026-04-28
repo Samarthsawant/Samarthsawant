@@ -1,6 +1,6 @@
 # Hi there, I'm Samarth Sawant 👋
 
-> Passionate about building interfaces that matter. Currently pursuing my master's with a focus on full-stack and systems thinking — blending creative frontend craft with cloud, data, and low-level programming expertise.
+
 
 ---
 
@@ -60,7 +60,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=samarthsawant&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthsawant&layout=compact&theme=default&hide_border=true" height="160" />
+
 </p>
 
 ---
